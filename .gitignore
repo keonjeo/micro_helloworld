@@ -1,0 +1,10 @@
+logs/
+.idea/
+.vscode/
+
+
+proto/*/*.pb.go
+proto/*/*.pb.*.go
+
+config/.env
+helloworld_srv
